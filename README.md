@@ -1,2 +1,2 @@
 # cours-git
-excrecise sur git
+excercise sur git
